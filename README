@@ -4,3 +4,11 @@ Various versions of the ArchiveTeam logo, suitable for different contexts. See t
   * icon: Icon versions of the logo, at different sizes.
 
 Note that I did not create the original version this logo, and do not claim authorship for it.
+
+
+The Archiveteam_logo_layers directory
+-------------------------------------
+
+PNG does not support layers. In addition to the Paint.net .pdn file, and a flattened PNG, I've provided a
+directory with individual pngs of each layer. Lowest number corresponds to lowest layer in the
+stacking order.
