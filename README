@@ -1,6 +1,7 @@
 Various versions of the ArchiveTeam logo, suitable for different contexts. See the various branches for more:
 
   * no-badge: Only the imagery, no text or oval border
-  * icon: Icon versions of the logo, at different sizes.
+  * icon-large: 128x128 icon version of the logo
+  * icon-small: 64x64, 32x32 and 16x16 versions of the logo (without cloud)
 
 Note that I did not create the original version this logo, and do not claim authorship for it.
